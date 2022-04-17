@@ -13,7 +13,7 @@
         "Created": "2022-04-16T18:18:42.7160854",
         "LastLogin": "2022-04-17T03:38:38.7031359Z",
         "NewsVersion": 29,
-        "SkillRating": 500,
+        "SkillRating": 800,
         "Experience": 2120000,
         "Crowns": 5,
         "HiddenRating": 185,
@@ -37,7 +37,7 @@
         "VersionResult": "UP_TO_DATE",
         "Balances": [
             {
-                "Amount": 100,
+                "Amount": 1000,
                 "Name": "coins",
                 "SecondsSince": 0,
                 "SecondsPerUnit": 0,

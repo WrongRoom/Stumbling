@@ -8,5 +8,6 @@
             "Header": "More news", 
             "Message": "yo I'm so cool",
             "TimeStamp": "today"
-        }]
+        }
+]
 

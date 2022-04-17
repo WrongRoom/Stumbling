@@ -1,5 +1,8 @@
-{"NewsData": [
-     "Header": "test", 
-     "Message": "UGHHH",
-     "TimeStamp": "today"
-]}
+{
+    "NewsData": [
+        {
+            "Header": "test", 
+            "Message": "UGHHH",
+            "TimeStamp": "today"
+        }]
+}

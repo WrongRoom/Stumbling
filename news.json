@@ -1,8 +1,8 @@
 "news": [
     {
-     "Header"="test", 
-     "Message"="MoreTest",
-     "TimeStamp"="today"
+     "Header": "test", 
+     "Message": "MoreTest",
+     "TimeStamp": "today"
     }
 ]
 

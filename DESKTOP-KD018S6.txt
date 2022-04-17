@@ -24,7 +24,10 @@
             "SKIN48",
             "SKIN59",
             "SKIN60",
-            "SKIN70"
+            "SKIN70",
+            "SKIN10",
+            "SKIN11",
+            "SKIN71"
         ],
         "SkinVariants": [],
         "Emotes": [],

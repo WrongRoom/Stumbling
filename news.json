@@ -1,8 +1,7 @@
-{
     "NewsData": [
         {
             "Header": "test", 
             "Message": "UGHHH",
             "TimeStamp": "today"
         }]
-}
+

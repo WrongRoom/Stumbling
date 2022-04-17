@@ -1,26 +1,8 @@
-{
-    "news": [
-        {
-            "User": {
-                "Username": "PEEB",
-                "Crowns": 17000000,
-                "Country": "US"
-            }
-        },
-        {
-            "User": {
-                "Username": "OLIE",
-                "Crowns": 797060,
-                "Country": "US"
-            }
-        },
-        {
-            "User": {
-                "Username": "SUSSY",
-                "Crowns": 1,
-                "Country": "US"
-            }
-        }
-        
-    ]
-}
+"news": [
+    {
+     "Header"="test", 
+     "Message"="MoreTest",
+     "TimeStamp"="today"
+    }
+]
+

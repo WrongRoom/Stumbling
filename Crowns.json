@@ -1,1 +1,26 @@
-not yet
+{
+    "scores": [
+        {
+            "User": {
+                "Username": "TestUser1",
+                "Crowns": 17000000,
+                "Country": "US"
+            }
+        },
+        {
+            "User": {
+                "Username": "TestUser2",
+                "Crowns": 797060,
+                "Country": "US"
+            }
+        },
+        {
+            "User": {
+                "Username": "TestUser3",
+                "Crowns": 1,
+                "Country": "US"
+            }
+        }
+        
+    ]
+}

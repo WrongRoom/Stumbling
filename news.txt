@@ -1,7 +1,12 @@
 [
         {
-            "Header": "test", 
-            "Message": "UGHHH",
+            "Header": "OpenStumble", 
+            "Message": "The server is online now!",
+            "TimeStamp": "today"
+        },
+        {
+            "Header": "More news", 
+            "Message": "yo I'm so cool",
             "TimeStamp": "today"
         }]
 

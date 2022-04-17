@@ -1,1 +1,26 @@
-
+{
+    "scores": [
+        {
+            "User": {
+                "Username": "Server based on OpenRec",
+                "SkillRating": 831010,
+                "Country": "US"
+            }
+        },
+        {
+            "User": {
+                "Username": "this is modded to work here",
+                "SkillRating": 797060,
+                "Country": "US"
+            }
+        },
+        {
+            "User": {
+                "Username": "This is a joke lol",
+                "SkillRating": 797060,
+                "Country": "US"
+            }
+        }
+        
+    ]
+}

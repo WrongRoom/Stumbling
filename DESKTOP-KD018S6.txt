@@ -5,7 +5,7 @@
         "FacebookId": null,
         "AppleId": null,
         "AdvertisingId": null,
-        "Username": "Dinogaming 2",
+        "Username": "GabeTheFirst",
         "Country": "US",
         "Region": "US",
         "Token": "y2WWrUi-S1XpUPaFDRa6LZ8LOHXIiqdF",

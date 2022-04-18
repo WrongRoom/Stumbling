@@ -8,6 +8,11 @@
             "Header": "More news", 
             "Message": "yo I'm so cool",
             "TimeStamp": "today"
+        },
+        {
+            "Header": "NEW USER", 
+            "Message": "Olie has joined OpenStumble online!",
+            "TimeStamp": "4/17/2022"
         }
 ]
 

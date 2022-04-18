@@ -34,7 +34,7 @@
         "Animations": [],
         "Footsteps": [],
         "HasBattlePass": true,
-        "PassTokens": 0,
+        "PassTokens": 999999999,
         "FreePassRewards": [],
         "PremiumPassRewards": [],
         "VersionResult": "UP_TO_DATE",
@@ -135,7 +135,7 @@
                 4
             ],
             "PremiumPassRewards": [],
-            "PassTokens": 380,
+            "PassTokens": 38000000,
             "HasPurchased": true,
             "PassID": 2,
             "SecondsToEnd": 1232481

@@ -61,7 +61,7 @@
                 "MaxAmount": 5000
             },
             {
-                "Amount": 100,
+                "Amount": 10000,
                 "Name": "gems",
                 "SecondsSince": 0,
                 "SecondsPerUnit": 0,

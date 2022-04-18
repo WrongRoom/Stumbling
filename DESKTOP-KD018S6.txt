@@ -22,6 +22,11 @@
         "Friends": null,
         "Skins": [
             "SKIN48",
+            "SKIN11",
+            "SKIN12",
+            "SKIN13",
+            "SKIN14",
+            "SKIN15",
             "SKIN59",
             "SKIN60",
             "SKIN70",

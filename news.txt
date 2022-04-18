@@ -13,6 +13,11 @@
             "Header": "NEW USER", 
             "Message": "Olie has joined OpenStumble online!",
             "TimeStamp": "4/17/2022"
+        },
+        {
+            "Header": "Server now downloads user data", 
+            "Message": "lol check ur user",
+            "TimeStamp": "4/17/2022"
         }
 ]
 

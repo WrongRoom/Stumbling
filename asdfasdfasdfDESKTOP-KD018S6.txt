@@ -8,7 +8,7 @@
         "Username": "GabeTheFirst",
         "Country": "US",
         "Region": "US",
-        "Token": "1",
+        "Token": "y2WWrUi-S1XpUPaFDRa6LZ8LOHXIiqdF",
         "Version": "0.37",
         "Created": "2022-04-16T18:18:42.7160854",
         "LastLogin": "2022-04-17T03:38:38.7031359Z",

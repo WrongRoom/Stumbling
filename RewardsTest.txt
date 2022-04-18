@@ -9,7 +9,7 @@
         "Country": "US",
         "Region": "US",
         "Token": "1",
-        "Version": "0.37",
+        "Version": "0.30",
         "Created": "2022-04-16T18:18:42.7160854",
         "LastLogin": "2022-04-17T03:38:38.7031359Z",
         "NewsVersion": 29,

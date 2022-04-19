@@ -37,7 +37,15 @@
             "SKIN73",
             "SKIN49",
             "SKIN50",
-            "SKIN51"
+            "SKIN51",
+            "SKIN52",
+            "SKIN53",
+            "SKIN54",
+            "SKIN55",
+            "SKIN56",
+            "SKIN57",
+            "SKIN58",
+            "SKIN59"
         ],
         "SkinVariants": [],
         "Emotes": [],

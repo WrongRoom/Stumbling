@@ -1,5 +1,4 @@
-"Result": {
-  "AccessToken":"1",
-  "RefreshToken":"1",
-  "ExpireAt":"5/1/2023 8:30:52 AM"
+{
+    "code": 7,
+    "message": "Authentication parameters are missing."
 }

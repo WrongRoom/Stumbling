@@ -17,7 +17,7 @@
         "Experience": 2120000,
         "Crowns": 5,
         "HiddenRating": 185,
-        "IsBanned": true,
+        "IsBanned": false,
         "PurchaseReceipts": [],
         "Friends": null,
         "Skins": [

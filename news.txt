@@ -18,6 +18,11 @@
             "Header": "Server now downloads user data", 
             "Message": "lol check ur user",
             "TimeStamp": "4/17/2022"
+        },
+        {
+            "Header": "I'm from the future", 
+            "Message": "as in friday",
+            "TimeStamp": "Friday"
         }
 ]
 

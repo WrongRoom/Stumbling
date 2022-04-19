@@ -124,7 +124,13 @@
                 "MaxAmount": 0
             }
         ],
-        "Rewards": [{"Amount":100,"TypeInfo":"gems","Type":"CURRENCY"}],
+        "Rewards": ["SKIN48",
+            "SKIN59",
+            "SKIN60",
+            "SKIN70",
+            "SKIN10",
+            "SKIN11",
+            "SKIN71"],
         "AvailableNewsVersion": 29,
         "RewardID": "Fi+s+NwrY8Dc8TkGc71rZiroQlg=",
         "BattlePass": {
